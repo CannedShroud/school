@@ -10,3 +10,4 @@ tempCodeRunnerFile.cpp
 # And please dont ignore yourself
 !.gitignore
 !patterns/
+!logic/
