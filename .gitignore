@@ -1,0 +1,11 @@
+# Ignore all files
+* 
+
+# But not C++ ones
+!*.cpp
+
+# But ignore coderunner leftovers as well
+tempCodeRunnerFile.cpp
+
+# And please dont ignore yourself
+!.gitignore
